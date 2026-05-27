@@ -1,0 +1,8 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
+Las APIs pueden ser una herramienta clave para que las comunidades compartan información, reportes o alertas de manera organizada porque actúan como un puente de comunicación entre diferentes sistemas y aplicaciones.
+Elementos prácticos de cómo ayudan:
+•	Centralización de datos: Una API permite que toda la información (convocatorias, alertas, reportes) se almacene en un servidor y se consulte desde distintas plataformas sin duplicaciones.
+•	Acceso en tiempo real: Las comunidades pueden recibir alertas inmediatas en sus aplicaciones o páginas web, lo que mejora la capacidad de respuesta.
+•	Seguridad: Las APIs pueden incluir mecanismos de autenticación y permisos, garantizando que solo usuarios autorizados accedan o envíen información.
+•	Accesibilidad: Al estandarizar la forma de compartir datos, cualquier aplicación o dispositivo puede conectarse y mostrar la información de manera clara y comprensible.
+•	Organización: Se pueden definir rutas específicas (por ejemplo, /alertas, /reportes, /convocatorias) que estructuren la información y eviten el desorden.

@@ -1,0 +1,11 @@
+http://localhost:3000
+concepto
+→ Muestra el mensaje principal definido en la ruta raíz ("/"), por ejemplo: "Servidor funcionando correctamente".
+
+http://localhost:3000/saludo
+concepto
+→ Responde con un saludo personalizado, como "Hola, bienvenido al servidor".
+
+http://localhost:3000/mensaje/juan
+concepto
+→ Genera un mensaje dinámico usando un parámetro en la URL. En este caso, muestra un mensaje dirigido a "juan", por ejemplo: "Hola juan, este es tu mensaje".
